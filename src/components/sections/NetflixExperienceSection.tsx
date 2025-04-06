@@ -31,8 +31,7 @@ export function NetflixExperienceSection() {
         "Created responsive visualizations for complex geographical data."
       ],
       
-    },
-    
+    }
   ];
 
   return (
